@@ -1,0 +1,2 @@
+# CityDataScienceMSc-INM433_VisualAnalytics_coursework
+Visual Analytics coursework
